@@ -10,6 +10,12 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
 
+## What this backend API does?
+
+- Register new Restaurants;
+- Register supplies for each Restaurant;
+- Send email to restaurant's emails to notify what supplies are close to expire date.
+
 ## Learn more
 
   * Official website: https://www.phoenixframework.org/
