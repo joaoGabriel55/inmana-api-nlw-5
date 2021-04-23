@@ -24,6 +24,6 @@ defmodule Inmana.Supplies.ExpirationEmail do
          expiration_date: expiration_date,
          responsible: responsible
        }) do
-    "Description: #{description}, Expiration date: #{expiration_date}, Responsible: #{responsible}"
+    "Description: #{description}, Expiration date: #{expiration_date}, Responsible: #{responsible}\n"
   end
 end
